@@ -70,7 +70,10 @@ Automation workflows with written case studies, built to do complex things simpl
 Need something automated, an agent built, or a full-stack system shipped?
 
 <p align="center">
-  <a href="https://instagram.com/your_handle"><img src="https://img.shields.io/badge/Instagram-3a3a3a?style=for-the-badge&logo=instagram&logoColor=ef5350" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-3a3a3a?style=for-the-badge&logo=gmail&logoColor=ef5350" /></a>
-  <a href="https://your-site.com"><img src="https://img.shields.io/badge/Portfolio-3a3a3a?style=for-the-badge&logo=googlechrome&logoColor=ef5350" /></a>
+  <a href="https://portfolio-com-wcf.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-3a3a3a?style=for-the-badge&logo=googlechrome&logoColor=ef5350" /></a>
+  <a href="https://github.com/ishannepal00001"><img src="https://img.shields.io/badge/GitHub-3a3a3a?style=for-the-badge&logo=github&logoColor=ef5350" /></a>
+  <a href="https://www.fiverr.com/ishannepal__"><img src="https://img.shields.io/badge/Fiverr-3a3a3a?style=for-the-badge&logo=fiverr&logoColor=ef5350" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e7473a1f649abd78"><img src="https://img.shields.io/badge/Upwork-3a3a3a?style=for-the-badge&logo=upwork&logoColor=ef5350" /></a>
+  <a href="https://www.linkedin.com/in/ishan-nepal-b82518412/"><img src="https://img.shields.io/badge/LinkedIn-3a3a3a?style=for-the-badge" /></a>
+  <a href="https://wa.me/9779714083880"><img src="https://img.shields.io/badge/WhatsApp-3a3a3a?style=for-the-badge&logo=whatsapp&logoColor=ef5350" /></a>
 </p>
