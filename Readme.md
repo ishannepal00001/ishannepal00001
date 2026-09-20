@@ -71,10 +71,6 @@ Automation workflows with written case studies, built to do complex things simpl
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishannepal00001&background=ffffff&ring=c8373e&fire=c8373e&currStreakNum=3a3a3a&sideNums=3a3a3a&currStreakLabel=c8373e&sideLabels=3a3a3a&dates=8a8a8a&stroke=e6e6e6&border=e6e6e6#gh-light-mode-only" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishannepal00001&bg_color=ffffff&color=c8373e&line=c8373e&point=3a3a3a&area_color=c8373e&title_color=c8373e&hide_border=true&area=true#gh-light-mode-only" />
 </p>
 
