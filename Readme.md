@@ -1,10 +1,8 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:c8373e&height=200&section=header&text=Ishan%20Builds&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20agents%20%E2%80%A2%20Automation%20%E2%80%A2%20Full-stack&descAlignY=58&descSize=18#gh-light-mode-only" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232326,100:ef5350&height=200&section=header&text=Ishan%20Builds&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20agents%20%E2%80%A2%20Automation%20%E2%80%A2%20Full-stack&descAlignY=58&descSize=18#gh-dark-mode-only" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8373E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishan+%F0%9F%91%8B;I+build+AI+agents+%F0%9F%A4%96;I+automate+the+boring+stuff+%E2%9A%A1;I+ship+full-stack+systems+%F0%9F%9A%80;When+no-code+hits+its+limits%2C+I+write+the+code#gh-light-mode-only" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF5350&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishan+%F0%9F%91%8B;I+build+AI+agents+%F0%9F%A4%96;I+automate+the+boring+stuff+%E2%9A%A1;I+ship+full-stack+systems+%F0%9F%9A%80;When+no-code+hits+its+limits%2C+I+write+the+code#gh-dark-mode-only" />
 </a>
 
@@ -74,12 +72,10 @@ Automation workflows with written case studies, built to do complex things simpl
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ishannepal00001&background=ffffff&ring=c8373e&fire=c8373e&currStreakNum=3a3a3a&sideNums=3a3a3a&currStreakLabel=c8373e&sideLabels=3a3a3a&dates=8a8a8a&stroke=e6e6e6&border=e6e6e6#gh-light-mode-only" />
-  <img src="https://streak-stats.demolab.com?user=ishannepal00001&background=101012&ring=ef5350&fire=ef5350&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=ef5350&sideLabels=f2f2f2&dates=a1a1a3&stroke=2a2a2d&border=2a2a2d#gh-dark-mode-only" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishannepal00001&bg_color=ffffff&color=c8373e&line=c8373e&point=3a3a3a&area_color=c8373e&title_color=c8373e&hide_border=true&area=true#gh-light-mode-only" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishannepal00001&bg_color=101012&color=ef5350&line=ef5350&point=f2f2f2&area_color=ef5350&title_color=ef5350&hide_border=true&area=true#gh-dark-mode-only" />
 </p>
 
 ## 🤝 Work with me
