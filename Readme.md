@@ -85,4 +85,3 @@ Need something automated, an agent built, or a full-stack system shipped?
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:c8373e&height=100&section=footer#gh-light-mode-only" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232326,100:ef5350&height=100&section=footer#gh-dark-mode-only" />
